@@ -1,4 +1,4 @@
-# Week 5 — Two decisions and a Risk meeting
+# Week 5 — 3 decicions I made this week
 
 ## Decision 1: Manual fallback for the mapping table
 
@@ -10,6 +10,8 @@ I proposed this idea to my boss. He accepted it and even thought he thought it w
 
 For the reporting layer above, it would not only hold information related to mapping, but it would hold much other information that may be changed and would not be seen in the real data. After looking into and researching the best idea, SQLite was the best backend solution because of the nature of being easily queried in SQL, which was approved by the rest of the team, as SQL is a tool with which most of the team is comfortable.
 
-*The Meeting:* I joined my first risk team meeting. Usually, I am not in the office on that day, but because I was absent on the day I am normally in, I was invited to join them that day. It was not what I expected. I thought that the meeting would be just regular updates on serious situations, but it ended up becoming a brainstorming event, working on a single question. At times, the team would disagree on things, but everyone had a reason behind their claim or statements. This was interesting to me, as you would think that the company would have everything sorted out, but this shows how big industries look to push and improve themselves in a way that is not just by themselves but as a whole.
+## Decision 3: Joining First whole team risk meeting
+
+Although it does not relate to my project I was offered to join risk team weekly meeting even though it did not relate to me and I was told that it would be hard to follow. Usually, I am not in the office on that day so I had an option not to go, but as I was interested I joined anyways. It was not what I expected. I thought that the meeting would be just regular updates on serious situations, but it ended up becoming a brainstorming event, working on a single question. At times, the team would disagree on things, but everyone had a reason behind their claim or statements. This was interesting to me, as you would think that the company would have everything sorted out, but this shows how big industries look to push and improve themselves in a way that is not just by themselves but as a whole.
 
 
