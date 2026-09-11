@@ -1,6 +1,6 @@
 # Week 4: How bad assumptions and lack of knowledge slowed my progress 
 
-This assumption was false. I had this assumption because I had always believed that in university outlines, invalid rows and other factors would need to be dealt with before starting. But in VFMC, the data was very well maintained (which I understand would not always be the case). Their data was well structured with lots of detail. What I truly struggled with was understanding each row. By the end of this week of exploration of the data, it had subverted some of the expectations of my data analysis:
+I assumed the hard part of this project would be cleaning the data. This assumption was false. I had this assumption because I had always believed that in university outlines, invalid rows and other factors would need to be dealt with before starting. But in VFMC, the data was very well maintained (which I understand would not always be the case). Their data was well structured with lots of detail. What I truly struggled with was understanding each row. By the end of this week of exploration of the data, it had subverted some of the expectations of my data analysis:
 
 ## I assumed clean data would be easy to query.
 
