@@ -1,10 +1,10 @@
-# Week 5 — 3 decicions I made this week
+# Week 5 — 3 decisions I made this week
 
 ## Decision 1: Manual fallback for the mapping table
 
-Last week, I tried to automate a parent manager table. After many tests and trials, I found that the information wasn't recorded anywhere because the data was fairly simple to read. But due to the nature of the project, it is a requirement for this manager mapping table, so I had to create an alternative solution to this problem, where I would create a section that would allow manual mapping, which the system would remember in the past or the future. Due to each manager having an ID, it was easy to map this manually; in addition, it could hold other functionalities and create a flag for the data team to fill in.
+Last week, I tried to automate a parent manager table. After many tests and trials, I found that after many tests, I found the parent manager information simply wasn't recorded anywhere in the dataset. But due to the nature of the project, it is a requirement for this manager mapping table, so I had to create an alternative solution to this problem, where I would create a section that would allow manual mapping, which the system would remember in the past or the future. Due to each manager having an ID, it was easy to map this manually; in addition, it could hold other functionalities and create a flag for the data team to fill in.
 
-I proposed this idea to my boss. He accepted it and even thought he thought it was a good workaround, though the team had hoped for full automation. Overall, I was disappointed that I couldn’t do this, but for now this was the best solution that I could have come up with, and in a real situation I believe things like this would happen.
+I proposed this idea to my boss. He accepted it and thought it was a good workaround, though the team had hoped for full automation. Overall, I was disappointed that I couldn’t do this, but for now this was the best solution that I could have come up with, and in a real situation I believe things like this would happen.
 
 ## Decision 2: SQLite for the backend
 
