@@ -1,4 +1,4 @@
-# Week 5 — 3 decisions I made this week
+# Week 5: 3 decisions I made this week
 
 ## Decision 1: Manual fallback for the mapping table
 
