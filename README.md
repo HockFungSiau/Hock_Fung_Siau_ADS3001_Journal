@@ -20,7 +20,7 @@ Due to having different week to week experiences where none of them have been al
 
 - **Week 7** — Progress update: The week was about how I presented to Ben and James and the advice I got, so I wrote what I actually said, what I should have said instead, and what I learnt from the difference.
 
-- **Week 8** — A due diligence report: The week was about what I couldn't verify and who could fix it, so I reviewed my own dashboard the way a risk team reviews a fund, with strengths, red flags and a recommendation.
+- **Week 8** — A due diligence report: The week was about what I couldn't verify and who could fix it, so I reviewed my own dashboard the way a risk team reviews a fund, with strengths, red flags and a recommendation. This was inspired by my first week, when I was shown a report created by the risk team on a manager they had invested in, whose performance ended up being poor due to poor management.
 
 - **Week 9** — A reconciliation statement: I spent the week comparing my figures with the team's and chasing a request across teams, so I wrote it as a reconciliation of what matched, what I adjusted and what is still open.
 
