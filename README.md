@@ -15,6 +15,17 @@ Due to having different week to week experiences where none of them have been al
 - **Week 4** — An assumptions log: I decided to write down some of my assumptions that I had to prove wrong this week, while doing a data analysis stage. Due to me assuming that most error of work I have done was a data related and not finance related, I ended up struggling a little this week. At the end of the week I was reminded that this was a finance firm and not a data science firm, which helped me get my understanding and improve my way of thinking.
   
 - **Week 5** — A decision log: I made two design decisions with real trade offs, and a decision log records the reasoning rather than just the outcome.
-  
-- **Week 6** — A set of questions: Had my first quiet week, due to many co-worker absentees, so I thought I would use this time answer some questions about my progress and experience, whether it was this quiet week or my halfway progress
 
+- **Week 6** — Questions: It was a quiet week working mostly on my own, so I wrote it around the questions I kept asking myself, because a question makes me explain why and not just what.
+
+- **Week 7** — Progress update: The week was about how I presented to Ben and James and the advice I got, so I wrote what I actually said, what I should have said instead, and what I learnt from the difference.
+
+- **Week 8** — A due diligence report: The week was about what I couldn't verify and who could fix it, so I reviewed my own dashboard the way a risk team reviews a fund, with strengths, red flags and a recommendation.
+
+- **Week 9** — A reconciliation statement: I spent the week comparing my figures with the team's and chasing a request across teams, so I wrote it as a reconciliation of what matched, what I adjusted and what is still open.
+
+- **Week 10** — A project status page: It was a steady working week with the backend finished, so I wrote it as a status page showing what has changed since Week 6, what works, what is still open and what I learnt.
+
+- **Week 11** — A newsletter: The week was about the first live test and the people around the project, so I wrote it as a newsletter that reports on the team as well as my own work.
+
+- **Week 12** — A letter to my Week 1 self: It was my last week, so I wrote to my Week 1 self to show how much has changed since then.
