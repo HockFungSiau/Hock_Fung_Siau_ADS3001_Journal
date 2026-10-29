@@ -1,6 +1,6 @@
 # Week 11: The Dashboard Goes Live
 
-*A newsletter from the risk desk*
+## *A newsletter from the risk desk*
 
 ## The first live test
 While the team worked through last month’s calculations, James used the current dashboard to check something on a potential manager that would be added. They agreed the figures were fairly similar to what they had calculated, which felt good, because it meant the dashboard was on the right track. Until now I had only tested the dashboard on previous calculations, and those covered just the parts needing attention (Week 9). This time the people who do this every month ran it through their routine, which is stronger evidence than anything I could produce alone. I also got to watch how it worked in other hands. As I don’t know exactly what the next steps are after I leave, it was good to see that they can understand and use the dashboard.
