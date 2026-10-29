@@ -18,14 +18,14 @@ Due to having different week to week experiences where none of them have been al
 
 - **Week 6** — Questions: It was a quiet week working mostly on my own, so I wrote it around the questions I kept asking myself, because a question makes me explain why and not just what.
 
-- **Week 7** — Progress update: The week was about how I presented to Ben and James and the advice I got, so I wrote what I actually said, what I should have said instead, and what I learnt from the difference.
+- **Week 7** — A progress update: The week was about how I presented to Ben and James and the advice I got, so I wrote what I actually said, what I should have said instead, and what I learnt from the difference.
 
-- **Week 8** — A due diligence report: The week was about what I couldn't verify and who could fix it, so I reviewed my own dashboard the way a risk team reviews a fund, with strengths, red flags and a recommendation. This was inspired by my first week, when I was shown a report created by the risk team on a manager they had invested in, whose performance ended up being poor due to poor management.
+- **Week 8** — A due diligence report: The week was about what I couldn't verify and who could fix it, so I reviewed my own dashboard the way a risk team reviews a fund, with strengths, red flags and a recommendation. This was inspired by my first week, when the team reviewed a manager whose fund lost value and showed warning signs that weren't obvious on the surface.
 
 - **Week 9** — A reconciliation statement: I spent the week comparing my figures with the team's and chasing a request across teams, so I wrote it as a reconciliation of what matched, what I adjusted and what is still open.
 
-- **Week 10** — A project status page: It was a steady working week with the backend finished, so I wrote it as a status page showing what has changed since Week 6, what works, what is still open and what I learnt.
+- **Week 10** — A project status page: It was a steady working week with the whole build finished, so I wrote it as a status page showing what has changed since Week 6, what works, what is still open and what I learnt.
 
 - **Week 11** — A newsletter: The week was about the first live test and the people around the project, so I wrote it as a newsletter that reports on the team as well as my own work.
 
-- **Week 12** — A letter to my Week 1 self: It was my last week, so I wrote to my Week 1 self to show how much has changed since then.
+- **Week 12** — A message to my Week 1 self: It was my last week, so I wrote to my Week 1 self to show how much has changed since then.
